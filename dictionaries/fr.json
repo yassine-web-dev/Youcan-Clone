@@ -1,0 +1,895 @@
+{
+  "navbar": {
+    "leftmenu": {
+      "logo": "YouCan",
+      "leftlist": {
+        "navigation": {
+          "features": "Fonctionnalités",
+          "pricing": "Tarifs"
+        }
+      }
+    },
+    "rightmenu": {
+      "rightlist": {
+        "navigation": {
+          "signup": "S'inscrire",
+          "login": "Connexion",
+          "langmenu": {
+            "en": "English",
+            "fr": "Français",
+            "ar": "العربية"
+          }
+        }
+      }
+    }
+  },
+  "nav": {
+    "main": {
+      "title": "Langue"
+    }
+  },
+  "main": {
+    "herosection": {
+      "headingsection": {
+        "title": "Selling online has never been easier",
+        "subtitle": "Start your online store in a few clicks and take advantage of our powerful e\u002Dcommerce tools to build a profitable business",
+        "marks": {
+          "marktext1": "Easy and intuitive store setup",
+          "marktext2": "No charge until you succeed",
+          "marktext3": "All the e\u002Dcommerce tools you need in one place"
+        },
+        "description": {
+          "button": "Get Started"
+        }
+      },
+      "imagesection": {
+        "benifits": {
+          "benifit1": "Active stores",
+          "benifit2": "Served countries",
+          "benifit3": "Conversion rate"
+        }
+      }
+    },
+    "featuressection": {
+      "title": "How does it work\u003F",
+      "features": {
+        "feature1": "Setup your store",
+        "feature2": "List your products",
+        "feature3": "Drive traffic and sales",
+        "feature4": "Get paid"
+      }
+    },
+    "innersection": {
+      "inner1": {
+        "title": "Easy and intuitive store setup",
+        "text": "Save yourself hours of hassle with our well-optimized\u002C highly convertible\u002C simple\u002C and easy to setup store themes\u002E",
+        "button": "Learn more"
+      },
+      "inner2": {
+        "desc": {
+          "title": "No charge until you succeed",
+          "text": "Enjoy all YouCan features and services without any limitations and without having to pay until you reach \u002410\u002C000 in sales\u002E",
+          "button": "Learn more"
+        },
+        "imgbox": {
+          "text": {
+            "txt1": "You\u2019ve just hit",
+            "txt2": "\u002410k in sales"
+          }
+        }
+      },
+      "inner3": {
+        "title": "All the e\u002Dcommerce tools you need in one place\u002E",
+        "text": "Get all the design\u002C fulfillment\u002C payment\u002C and analytics tools you need to manage your business seamlessly",
+        "button": "Learn more"
+      }
+    },
+    "faqaccordination": {
+      "title": "Frequently asked questions",
+      "accordion": {
+        "accordionitem1": {
+          "itemquest": "How can I change my store name and email\u003F",
+          "itemanswer": {
+            "txt1": "To change your store name\u002C you can do it manually from your store",
+            "txt2": "settings",
+            "txt3": "\u002C for your store slug and your store\u002Fseller email\u002C please send an email to",
+            "txt4": "support\u0040youcan\u002Eshop"
+          }
+        },
+        "accordionitem2": {
+          "itemquest": "Why should I buy credit to activate my store\u003F",
+          "itemanswer": "To avoid fake accounts and robots\u002E The amount bought will be a deposit in your balance that you can always use later\u002E"
+        },
+        "accordionitem3": {
+          "itemquest": "Is there a limit on the number of products I can add to my store\u003F",
+          "itemanswer": "You can add an unlimited number of products and receive an unlimited number of qualified visitors excluding fake visitors\u002E YouCan enables you to create\u002C develop and manage your store without limitations\u002E"
+        },
+        "accordionitem4": {
+          "itemquest": "Does YouCan take care of storage and shipping of my products\u003F",
+          "itemanswer": "We do not currently support storage and shipping\u002C but we have an aggregator service \u0028YouCan Ship\u0029 that provides you with a list of local shipping companies and you can choose from it\u002E"
+        },
+        "accordionitem5": {
+          "itemquest": "Can I use YouCan for dropshipping\u003F",
+          "itemanswer": "Yes\u002C YouCan can be used for dropshipping\u002E All the tools you need to do so are available to you\u002E Please read our terms and conditions for cases where you are not allowed to use dropshipping\u002E"
+        }
+      }
+    }
+  },
+  "page": {
+    "features": {
+      "title": "Features",
+      "subtitle": "Tons of free tools\u002C features\u002C and services to set you up for success",
+      "wrapper": {
+        "feature1": {
+          "title": "Seamless COD Management",
+          "description": "Manage your Cash on Delivery orders in one place\u002C from leads management to order confirmation and shipping\u002E"
+        },
+        "feature2": {
+          "title": "Google Sheet Integration",
+          "description": "Scale and speed up your business operations by leveraging the power of our seamless Google Sheet integration\u002E"
+        },
+        "feature3": {
+          "title": "Multi Currency Converter",
+          "description": "Offer a customized experience to your customers\u002E Your store currency will be automatically converted based on your customers location\u002E"
+        },
+        "feature4": {
+          "title": "Express checkout form",
+          "description": "Allow your visitor to order the product on the same page\u002E Less steps\u002C more conversion\u0021"
+        },
+        "feature5": {
+          "title": "Customize your checkout",
+          "description": "Make it easier for your customers to complete the checkout\u002E Customize the fields and request only the necessary information\u002E"
+        },
+        "feature6": {
+          "title": "One Click UpSell",
+          "description": "Increase your sales effortlessly with our upsell feature that shows your customers attractive offers right after they purchase\u002E"
+        },
+        "feature7": {
+          "title": "SEO Support",
+          "description": "Rank your product pages higher in search results\u002E Get free access to the tools you need to increase organic traffic to your store\u002E"
+        },
+        "feature8": {
+          "title": "Pixels Integration",
+          "description": "Drive quality leads to your store thanks to our easy\u002Dto\u002Dsetup pixel integration of most advertising platforms\u002E"
+        },
+        "feature9": {
+          "title": "Products Reviews",
+          "description": "Increase your store\u2019s conversion by up to 50\u0025 by adding real reviews from your happy past customers\u002E"
+        },
+        "feature10": {
+          "title": "Abandoned Carts",
+          "description": "Give your abandoned cart customers the push they need to complete their purchase with our free email targeting feature\u002E"
+        },
+        "feature11": {
+          "title": "Skip Cart",
+          "description": "Reduce friction for your customers\u002E Direct them directly from your product page to the checkout page\u002E"
+        },
+        "feature12": {
+          "title": "Multiple Stripe Accounts Support",
+          "description": "You can connect your store with more than one Stripe account\u002E This way you keep your business safe and secure\u002E"
+        }
+      }
+    },
+    "pricing": {
+      "title": "Pricing",
+      "subtitle": "Offering the most competitive rates to entrepreneurs in the MEA region and 2 models to choose from \u003A",
+      "wrapper": {
+        "btnwrapper": {
+          "btn1": "Subscription based",
+          "btn2": "Transaction based"
+        },
+        "contentwrapper": {
+          "subscription": {
+            "pricingplan1": {
+              "plan": {
+                "title": "Solopreneur",
+                "price": {
+                  "txt1": "\u0024",
+                  "txt2": "per month"
+                },
+                "featuresincluded": "What\u2019s included",
+                "includeditems": {
+                  "item1": "Up to 50K monthly sales",
+                  "item2": "1 user"
+                }
+              },
+              "planbtn": "Choose plan"
+            },
+            "pricingplan2": {
+              "plan": {
+                "title": "Starter",
+                "price": {
+                  "txt1": "\u0024",
+                  "txt2": "per month"
+                },
+                "featuresincluded": "What\u2019s included",
+                "includeditems": {
+                  "item1": "Up to 100K monthly sales",
+                  "item2": "3 users"
+                }
+              },
+              "planbtn": "Choose plan"
+            },
+            "pricingplan3": {
+              "plan": {
+                "title": "Entrepreneur",
+                "price": {
+                  "txt1": "\u0024",
+                  "txt2": "per month"
+                },
+                "featuresincluded": "What\u2019s included",
+                "includeditems": {
+                  "item1": "Up to 300K monthly sales",
+                  "item2": "6 users"
+                }
+              },
+              "planbtn": "Choose plan"
+            },
+            "pricingplan4": {
+              "plan": {
+                "title": "Small Medium Enterprise",
+                "price": {
+                  "txt1": "\u0024",
+                  "txt2": "per month"
+                },
+                "featuresincluded": "What\u2019s included",
+                "includeditems": {
+                  "item1": "Up to 1M monthly sales",
+                  "item2": "19 users"
+                }
+              },
+              "planbtn": "Choose plan"
+            }
+          },
+          "commission": {
+            "firststatement": {
+              "title": "Cash on delivery payments",
+              "diagram": {
+                "txt1": "No payment until you reach \u002410k in sales",
+                "txt2": "Between \u002410K and 250K",
+                "txt3": "Contact Us"
+              },
+              "saleslvl": "Sales level"
+            },
+            "secondstatement": {
+              "title": "Online payments",
+              "diagram": {
+                "txt1": "No payment until you reach \u002410k in sales",
+                "txt2": "Between \u002410K and 250K",
+                "txt3": "Contact Us"
+              },
+              "saleslvl": "Sales level"
+            }
+          }
+        }
+      }
+    },
+    "contactus": {
+      "title": "Contact us",
+      "description": "The support team is available 24\u002F7 to assist you and answer any questions you may have in order to achieve greater success\u002E",
+      "form": {
+        "email": "E\u002Dmail",
+        "help": "How can we help\u003F",
+        "contactreason": "Contact Reason",
+        "reasons": {
+          "reason1": "Payment issue",
+          "reason2": "Technical issue",
+          "reason3": "Other issues"
+        },
+        "btn": "Send"
+      }
+    },
+    "signup": {
+      "title": "Create your account",
+      "subtitle": "Fill out the form below to create your account",
+      "form1": {
+        "name": {
+          "firstname": "First name",
+          "lastname": "Last name"
+        },
+        "email": "E\u002Dmail address",
+        "password": "Password",
+        "country": {
+          "countrylabel": "Country",
+          "countries": {
+            "Aruba": "Aruba",
+            "Afghanistan": "Afghanistan",
+            "Angola": "Angola",
+            "Anguilla": "Anguilla",
+            "Aland": "Åland",
+            "Albania": "Albania",
+            "Andorra": "Andorra",
+            "UAE": "United Arab Emirates",
+            "Argentina": "Argentina",
+            "Armenia": "Armenia",
+            "AmericanSamoa": "American Samoa",
+            "Antarctica": "Antarctica",
+            "FS&AL": "French Southern and Antarctic Lands",
+            "A&B": "Antigua and Barbuda",
+            "Australia": "Australia",
+            "Austria": "Austria",
+            "Azerbaijan": "Azerbaijan",
+            "Burundi": "Burundi",
+            "Belgium": "Belgium",
+            "Benin": "Benin",
+            "BurkinaFaso": "Burkina Faso",
+            "Bangladesh": "Bangladesh",
+            "Bulgaria": "Bulgaria",
+            "Bahrain": "Bahrain",
+            "TheBahamas": "The Bahamas",
+            "B&H": "Bosnia and Herzegovina",
+            "SB": "Saint Barthélemy",
+            "SH&A&TdaC": "Saint Helena\u002C Ascension and Tristan da Cunha",
+            "Belarus": "Belarus",
+            "Belize": "Belize",
+            "Bermuda": "Bermuda",
+            "Bolivia": "Bolivia",
+            "CN": "Caribbean Netherlands",
+            "Brazil": "Brazil",
+            "Barbados": "Barbados",
+            "Brunei": "Brunei",
+            "Bhutan": "Bhutan",
+            "BouvetIsland": "Bouvet Island",
+            "Botswana": "Botswana",
+            "CAR": "Central African Republic",
+            "Canada": "Canada",
+            "CocosIslands": "Cocos \u0028Keeling\u0029 Islands",
+            "Switzerland": "Switzerland",
+            "Chile": "Chile",
+            "PRofChina": "People\u2019s Republic of China",
+            "IvoryCoast": "Ivory Coast",
+            "Cameroon": "Cameroon",
+            "DRoftheCongo": "Democratic Republic of the Congo",
+            "RoftheCongo": "Republic of the Congo",
+            "CookIslands": "Cook Islands",
+            "Colombia": "Colombia",
+            "Comoros": "Comoros",
+            "CapeVerde": "Cape Verde",
+            "CostaRica": "Costa Rica",
+            "Cuba": "Cuba",
+            "Curaçao": "Curaçao",
+            "ChristmasIsland": "Christmas Island",
+            "CaymanIslands": "Cayman Islands",
+            "Cyprus": "Cyprus",
+            "CzechRepublic": "Czech Republic",
+            "Germany": "Germany",
+            "Djibouti": "Djibouti",
+            "Dominica": "Dominica",
+            "Denmark": "Denmark",
+            "DR": "Dominican Republic",
+            "Algeria": "Algeria",
+            "Ecuador": "Ecuador",
+            "Egypt": "Egypt",
+            "Eritrea": "Eritrea",
+            "Spain": "Spain",
+            "Estonia": "Estonia",
+            "Ethiopia": "Ethiopia",
+            "Finland": "Finland",
+            "Fiji": "Fiji",
+            "FalklandIslands": "Falkland Islands",
+            "France": "France",
+            "FaroeIslands": "Faroe Islands",
+            "FSofMicronesia": "Federated States of Micronesia",
+            "Gabon": "Gabon",
+            "UnitedKingdom": "United Kingdom",
+            "Georgia": "Georgia",
+            "Guernsey": "Guernsey",
+            "Ghana": "Ghana",
+            "Gibraltar": "Gibraltar",
+            "Guinea": "Guinea",
+            "Guadeloupe": "Guadeloupe",
+            "TheGambia": "The Gambia",
+            "GuineaBissau": "Guinea\u002DBissau",
+            "EquatorialGuinea": "Equatorial Guinea",
+            "Greece": "Greece",
+            "Grenada": "Grenada",
+            "Greenland": "Greenland",
+            "Guatemala": "Guatemala",
+            "FrenchGuiana": "French Guiana",
+            "Guam": "Guam",
+            "Guyana": "Guyana",
+            "HongKong": "Hong Kong",
+            "HI&MI": "Heard Island and McDonald Islands",
+            "Honduras": "Honduras",
+            "Croatia": "Croatia",
+            "Haiti": "Haiti",
+            "Hungary": "Hungary",
+            "Indonesia": "Indonesia",
+            "IsleofMan": "Isle of Man",
+            "India": "India",
+            "BIOT": "British Indian Ocean Territory",
+            "Ireland": "Ireland",
+            "Iran": "Iran",
+            "Iraq": "Iraq",
+            "Iceland": "Iceland",
+            "Israel": "Israel",
+            "Italy": "Italy",
+            "Jamaica": "Jamaica",
+            "Jersey": "Jersey",
+            "Jordan": "Jordan",
+            "Japan": "Japan",
+            "Kazakhstan": "Kazakhstan",
+            "Kenya": "Kenya",
+            "Kyrgyzstan": "Kyrgyzstan",
+            "Cambodia": "Cambodia",
+            "Kiribati": "Kiribati",
+            "SK&N": "Saint Kitts and Nevis",
+            "SouthKorea": "South Korea",
+            "Kosovo": "Kosovo",
+            "Kuwait": "Kuwait",
+            "Laos": "Laos",
+            "Lebanon": "Lebanon",
+            "Liberia": "Liberia",
+            "Libya": "Libya",
+            "SaintLucia": "Saint Lucia",
+            "Liechtenstein": "Liechtenstein",
+            "SriLanka": "Sri Lanka",
+            "Lesotho": "Lesotho",
+            "Lithuania": "Lithuania",
+            "Luxembourg": "Luxembourg",
+            "Latvia": "Latvia",
+            "Macau": "Macau",
+            "SaintMartin": "Saint Martin",
+            "Morocco": "Morocco",
+            "Monaco": "Monaco",
+            "Moldova": "Moldova",
+            "Madagascar": "Madagascar",
+            "Maldives": "Maldives",
+            "Mexico": "Mexico",
+            "MarshallIslands": "Marshall Islands",
+            "NorthMacedonia": "North Macedonia",
+            "Mali": "Mali",
+            "Malta": "Malta",
+            "Myanmar": "Myanmar",
+            "Montenegro": "Montenegro",
+            "Mongolia": "Mongolia",
+            "NorthernMarianaIslands": "Northern Mariana Islands",
+            "Mozambique": "Mozambique",
+            "Mauritania": "Mauritania",
+            "Montserrat": "Montserrat",
+            "Martinique": "Martinique",
+            "Mauritius": "Mauritius",
+            "Malawi": "Malawi",
+            "Malaysia": "Malaysia",
+            "Mayotte": "Mayotte",
+            "Namibia": "Namibia",
+            "NewCaledonia": "New Caledonia",
+            "Niger": "Niger",
+            "NorfolkIsland": "Norfolk Island",
+            "Nigeria": "Nigeria",
+            "Nicaragua": "Nicaragua",
+            "Niue": "Niue",
+            "Netherlands": "Netherlands",
+            "Norway": "Norway",
+            "Nepal": "Nepal",
+            "Nauru": "Nauru",
+            "NewZealand": "New Zealand",
+            "Oman": "Oman",
+            "Pakistan": "Pakistan",
+            "Panama": "Panama",
+            "PitcairnIslands": "Pitcairn Islands",
+            "Peru": "Peru",
+            "Philippines": "Philippines",
+            "Palau": "Palau",
+            "PapuaNewGuinea": "Papua New Guinea",
+            "Poland": "Poland",
+            "PuertoRico": "Puerto Rico",
+            "NorthKorea": "North Korea",
+            "Portugal": "Portugal",
+            "Paraguay": "Paraguay",
+            "Palestine": "Palestine",
+            "FrenchPolynesia": "French Polynesia",
+            "Qatar": "Qatar",
+            "Réunion": "Réunion",
+            "Romania": "Romania",
+            "Russia": "Russia",
+            "Rwanda": "Rwanda",
+            "SaudiArabia": "Saudi Arabia",
+            "Sudan": "Sudan",
+            "Senegal": "Senegal",
+            "Singapore": "Singapore",
+            "SG&SSI": "South Georgia and the South Sandwich Islands",
+            "S&JM": "Svalbard and Jan Mayen",
+            "SolomonIslands": "Solomon Islands",
+            "SierraLeone": "Sierra Leone",
+            "ElSalvador": "El Salvador",
+            "SanMarino": "San Marino",
+            "Somalia": "Somalia",
+            "SP&M": "Saint Pierre and Miquelon",
+            "Serbia": "Serbia",
+            "SouthSudan": "South Sudan",
+            "SãoTomé&Príncipe": "São Tomé and Príncipe",
+            "Suriname": "Suriname",
+            "Slovakia": "Slovakia",
+            "Slovenia": "Slovenia",
+            "Sweden": "Sweden",
+            "Eswatini": "Eswatini",
+            "SintMaarten": "Sint Maarten",
+            "Seychelles": "Seychelles",
+            "Syria": "Syria",
+            "T&CI": "Turks and Caicos Islands",
+            "Chad": "Chad",
+            "Togo": "Togo",
+            "Thailand": "Thailand",
+            "Tajikistan": "Tajikistan",
+            "Tokelau": "Tokelau",
+            "Turkmenistan": "Turkmenistan",
+            "EastTimor": "East Timor",
+            "Tonga": "Tonga",
+            "TrinidadandTobago": "Trinidad and Tobago",
+            "Tunisia": "Tunisia",
+            "Turkey": "Turkey",
+            "Tuvalu": "Tuvalu",
+            "Taiwan": "Taiwan",
+            "Tanzania": "Tanzania",
+            "Uganda": "Uganda",
+            "Ukraine": "Ukraine",
+            "USMOI": "United States Minor Outlying Islands",
+            "Uruguay": "Uruguay",
+            "USofAmerica": "United States of America",
+            "Uzbekistan": "Uzbekistan",
+            "VaticanCity": "Vatican City",
+            "SV&G": "Saint Vincent and the Grenadines",
+            "Venezuela": "Venezuela",
+            "BVI": "British Virgin Islands",
+            "USVirginIslands": "United States Virgin Islands",
+            "Vietnam": "Vietnam",
+            "Vanuatu": "Vanuatu",
+            "Wallis&Futuna": "Wallis and Futuna",
+            "Samoa": "Samoa",
+            "Yemen": "Yemen",
+            "SouthAfrica": "South Africa",
+            "Zambia": "Zambia",
+            "Zimbabwe": "Zimbabwe",
+            "DC": "Dhekelia Cantonment",
+            "Somaliland": "Somaliland",
+            "GBNB": "Guantanamo Bay Naval Base",
+            "BrazilianIsland": "Brazilian Island",
+            "TRofNC": "Turkish Republic of Northern Cyprus",
+            "UNBZC": "United Nations Buffer Zone in Cyprus",
+            "SiachenGlacier": "Siachen Glacier",
+            "Baikonur": "Baikonur",
+            "ASBA": "Akrotiri Sovereign Base Area",
+            "SPIF": "Southern Patagonian Ice Field",
+            "BirTawil": "Bir Tawil",
+            "AIOT": "Australian Indian Ocean Territories",
+            "CoralSeaIslands": "Coral Sea Islands",
+            "WakeIsland": "Wake Island",
+            "ClippertonIsland": "Clipperton Island",
+            "A&CI": "Ashmore and Cartier Islands",
+            "BajoNuevoBank": "Bajo Nuevo Bank",
+            "SerranillaBank": "Serranilla Bank",
+            "ScarboroughShoal": "Scarborough Shoal",
+            "EuropeUnion": "Europe Union"
+          }
+        },
+        "phonenumber": {
+          "phonenumberlabel": "Phone number",
+          "phonenumbers": {
+            "US": "US \u0028+1\u0029",
+            "AG": "AG \u0028+1\u0029",
+            "AI": "AI \u0028+1\u0029",
+            "AS": "AS \u0028+1\u0029",
+            "BB": "BB \u0028+1\u0029",
+            "BM": "BM \u0028+1\u0029",
+            "BS": "BS \u0028+1\u0029",
+            "CA": "CA \u0028+1\u0029",
+            "DM": "DM \u0028+1\u0029",
+            "DO": "DO \u0028+1\u0029",
+            "GD": "GD \u0028+1\u0029",
+            "GU": "GU \u0028+1\u0029",
+            "JM": "JM \u0028+1\u0029",
+            "KN": "KN \u0028+1\u0029",
+            "KY": "KY \u0028+1\u0029",
+            "LC": "LC \u0028+1\u0029",
+            "MP": "MP \u0028+1\u0029",
+            "MS": "MS \u0028+1\u0029",
+            "PR": "PR \u0028+1\u0029",
+            "SX": "SX \u0028+1\u0029",
+            "TC": "TC \u0028+1\u0029",
+            "TT": "TT \u0028+1\u0029",
+            "VC": "VC \u0028+1\u0029",
+            "VG": "VG \u0028+1\u0029",
+            "VI": "VI \u0028+1\u0029",
+            "RU": "RU \u0028+7\u0029",
+            "KZ": "KZ \u0028+7\u0029",
+            "EG": "EG \u0028+20\u0029",
+            "ZA": "ZA \u0028+27\u0029",
+            "GR": "GR \u0028+30\u0029",
+            "NL": "NL \u0028+31\u0029",
+            "BE": "BE \u0028+32\u0029",
+            "FR": "FR \u0028+33\u0029",
+            "ES": "ES \u0028+34\u0029",
+            "HU": "HU \u0028+36\u0029",
+            "IT": "IT \u0028+39\u0029",
+            "VA": "VA \u0028+39\u0029",
+            "RO": "RO \u0028+40\u0029",
+            "CH": "CH \u0028+41\u0029",
+            "AT": "AT \u0028+43\u0029",
+            "GB": "GB \u0028+44\u0029",
+            "GG": "GG \u0028+44\u0029",
+            "IM": "IM \u0028+44\u0029",
+            "JE": "JE \u0028+44\u0029",
+            "DK": "DK \u0028+45\u0029",
+            "SE": "SE \u0028+46\u0029",
+            "NO": "NO \u0028+47\u0029",
+            "SJ": "SJ \u0028+47\u0029",
+            "PL": "PL \u0028+48\u0029",
+            "DE": "DE \u0028+49\u0029",
+            "PE": "PE \u0028+51\u0029",
+            "MX": "MX \u0028+52\u0029",
+            "CU": "CU \u0028+53\u0029",
+            "AR": "AR \u0028+54\u0029",
+            "BR": "BR \u0028+55\u0029",
+            "CL": "CL \u0028+56\u0029",
+            "CO": "CO \u0028+57\u0029",
+            "VE": "VE \u0028+58\u0029",
+            "MY": "MY \u0028+60\u0029",
+            "AU": "AU \u0028+61\u0029",
+            "CC": "CC \u0028+61\u0029",
+            "CX": "CX \u0028+61\u0029",
+            "ID": "ID \u0028+62\u0029",
+            "PH": "PH \u0028+63\u0029",
+            "NZ": "NZ \u0028+64\u0029",
+            "SG": "SG \u0028+65\u0029",
+            "TH": "TH \u0028+66\u0029",
+            "JP": "JP \u0028+81\u0029",
+            "KR": "KR \u0028+82\u0029",
+            "VN": "VN \u0028+84\u0029",
+            "CN": "CN \u0028+86\u0029",
+            "TR": "TR \u0028+90\u0029",
+            "IN": "IN \u0028+91\u0029",
+            "PK": "PK \u0028+92\u0029",
+            "AF": "AF \u0028+93\u0029",
+            "LK": "LK \u0028+94\u0029",
+            "MM": "MM \u0028+95\u0029",
+            "IR": "IR \u0028+98\u0029",
+            "SS": "SS \u0028+211\u0029",
+            "MA": "MA \u0028+212\u0029",
+            "DZ": "DZ \u0028+213\u0029",
+            "TN": "TN \u0028+216\u0029",
+            "LY": "LY \u0028+218\u0029",
+            "GM": "GM \u0028+220\u0029",
+            "SN": "SN \u0028+221\u0029",
+            "MR": "MR \u0028+222\u0029",
+            "ML": "ML \u0028+223\u0029",
+            "GN": "GN \u0028+224\u0029",
+            "CI": "CI \u0028+225\u0029",
+            "BF": "BF \u0028+226\u0029",
+            "NE": "NE \u0028+227\u0029",
+            "TG": "TG \u0028+228\u0029",
+            "BJ": "BJ \u0028+229\u0029",
+            "MU": "MU \u0028+230\u0029",
+            "LR": "LR \u0028+231\u0029",
+            "SL": "SL \u0028+232\u0029",
+            "GH": "GH \u0028+233\u0029",
+            "NG": "NG \u0028+234\u0029",
+            "TD": "TD \u0028+235\u0029",
+            "CF": "CF \u0028+236\u0029",
+            "CM": "CM \u0028+237\u0029",
+            "CV": "CV \u0028+238\u0029",
+            "ST": "ST \u0028+239\u0029",
+            "GQ": "GQ \u0028+240\u0029",
+            "GA": "GA \u0028+241\u0029",
+            "CG": "CG \u0028+242\u0029",
+            "CD": "CD \u0028+243\u0029",
+            "AO": "AO \u0028+244\u0029",
+            "GW": "GW \u0028+245\u0029",
+            "IO": "IO \u0028+246\u0029",
+            "AC": "AC \u0028+247\u0029",
+            "SC": "SC \u0028+248\u0029",
+            "SD": "SD \u0028+249\u0029",
+            "RW": "RW \u0028+250\u0029",
+            "ET": "ET \u0028+251\u0029",
+            "SO": "SO \u0028+252\u0029",
+            "DJ": "DJ \u0028+253\u0029",
+            "KE": "KE \u0028+254\u0029",
+            "TZ": "TZ \u0028+255\u0029",
+            "UG": "UG \u0028+256\u0029",
+            "BI": "BI \u0028+257\u0029",
+            "MZ": "MZ \u0028+258\u0029",
+            "ZM": "ZM \u0028+260\u0029",
+            "MG": "MG \u0028+261\u0029",
+            "RE": "RE \u0028+262\u0029",
+            "YT": "YT \u0028+262\u0029",
+            "ZW": "ZW \u0028+263\u0029",
+            "NA": "NA \u0028+264\u0029",
+            "MW": "MW \u0028+265\u0029",
+            "LS": "LS \u0028+266\u0029",
+            "BW": "BW \u0028+267\u0029",
+            "SZ": "SZ \u0028+268\u0029",
+            "KM": "KM \u0028+269\u0029",
+            "SH": "SH \u0028+290\u0029",
+            "TA": "TA \u0028+290\u0029",
+            "ER": "ER \u0028+291\u0029",
+            "AW": "AW \u0028+297\u0029",
+            "FO": "FO \u0028+298\u0029",
+            "GL": "GL \u0028+299\u0029",
+            "GI": "GI \u0028+350\u0029",
+            "PT": "PT \u0028+351\u0029",
+            "LU": "LU \u0028+352\u0029",
+            "IE": "IE \u0028+353\u0029",
+            "IS": "IS \u0028+354\u0029",
+            "AL": "AL \u0028+355\u0029",
+            "MT": "MT \u0028+356\u0029",
+            "CY": "CY \u0028+357\u0029",
+            "FI": "FI \u0028+358\u0029",
+            "AX": "AX \u0028+358\u0029",
+            "BG": "BG \u0028+359\u0029",
+            "LT": "LT \u0028+370\u0029",
+            "LV": "LV \u0028+371\u0029",
+            "EE": "EE \u0028+372\u0029",
+            "MD": "MD \u0028+373\u0029",
+            "AM": "AM \u0028+374\u0029",
+            "BY": "BY \u0028+375\u0029",
+            "AD": "AD \u0028+376\u0029",
+            "MC": "MC \u0028+377\u0029",
+            "SM": "SM \u0028+378\u0029",
+            "UA": "UA \u0028+380\u0029",
+            "RS": "RS \u0028+381\u0029",
+            "ME": "ME \u0028+382\u0029",
+            "XK": "XK \u0028+383\u0029",
+            "HR": "HR \u0028+385\u0029",
+            "SI": "SI \u0028+386\u0029",
+            "BA": "BA \u0028+387\u0029",
+            "MK": "MK \u0028+389\u0029",
+            "CZ": "CZ \u0028+420\u0029",
+            "SK": "SK \u0028+421\u0029",
+            "LI": "LI \u0028+423\u0029",
+            "FK": "FK \u0028+500\u0029",
+            "BZ": "BZ \u0028+501\u0029",
+            "GT": "GT \u0028+502\u0029",
+            "SV": "SV \u0028+503\u0029",
+            "HN": "HN \u0028+504\u0029",
+            "NI": "NI \u0028+505\u0029",
+            "CR": "CR \u0028+506\u0029",
+            "PA": "PA \u0028+507\u0029",
+            "PM": "PM \u0028+508\u0029",
+            "HT": "HT \u0028+509\u0029",
+            "GP": "GP \u0028+590\u0029",
+            "BL": "BL \u0028+590\u0029",
+            "MF": "MF \u0028+590\u0029",
+            "BO": "BO \u0028+591\u0029",
+            "GY": "GY \u0028+592\u0029",
+            "EC": "EC \u0028+593\u0029",
+            "GF": "GF \u0028+594\u0029",
+            "PY": "PY \u0028+595\u0029",
+            "MQ": "MQ \u0028+596\u0029",
+            "SR": "SR \u0028+597\u0029",
+            "UY": "UY \u0028+598\u0029",
+            "CW": "CW \u0028+599",
+            "BQ": "BQ \u0028+599\u0029",
+            "TL": "TL \u0028+670\u0029",
+            "NF": "NF \u0028+672\u0029",
+            "BN": "BN \u0028+673\u0029",
+            "NR": "NR \u0028+674\u0029",
+            "PG": "PG \u0028+675\u0029",
+            "TO": "TO \u0028+676\u0029",
+            "SB": "SB \u0028+677\u0029",
+            "VU": "VU \u0028+678\u0029",
+            "FJ": "FJ \u0028+679\u0029",
+            "PW": "PW \u0028+680\u0029",
+            "WF": "WF \u0028+681\u0029",
+            "CK": "CK \u0028+682\u0029",
+            "NU": "NU \u0028+683\u0029",
+            "WS": "WS \u0028+685\u0029",
+            "KI": "KI \u0028+686\u0029",
+            "NC": "NC \u0028+687\u0029",
+            "TV": "TV \u0028+688\u0029",
+            "PF": "PF \u0028+689\u0029",
+            "TK": "TK \u0028+690\u0029",
+            "FM": "FM \u0028+691\u0029",
+            "MH": "MH \u0028+692\u0029",
+            "KP": "KP \u0028+850\u0029",
+            "HK": "HK \u0028+852\u0029",
+            "MO": "MO \u0028+853\u0029",
+            "KH": "KH \u0028+855\u0029",
+            "LA": "LA \u0028+856\u0029",
+            "BD": "BD \u0028+880\u0029",
+            "TW": "TW \u0028+886\u0029",
+            "MV": "MV \u0028+960\u0029",
+            "LB": "LB \u0028+961\u0029",
+            "JO": "JO \u0028+962\u0029",
+            "SY": "SY \u0028+963\u0029",
+            "IQ": "IQ \u0028+964\u0029",
+            "KW": "KW \u0028+965\u0029",
+            "SA": "SA \u0028+966\u0029",
+            "YE": "YE \u0028+967\u0029",
+            "OM": "OM \u0028+968\u0029",
+            "PS": "PS \u0028+970\u0029",
+            "AE": "AE \u0028+971\u0029",
+            "IL": "IL \u0028+972\u0029",
+            "BH": "BH \u0028+973\u0029",
+            "QA": "QA \u0028+974\u0029",
+            "BT": "BT \u0028+975\u0029",
+            "MN": "MN \u0028+976\u0029",
+            "NP": "NP \u0028+977\u0029",
+            "TJ": "TJ \u0028+992\u0029",
+            "TM": "TM \u0028+993\u0029",
+            "AZ": "AZ \u0028+994\u0029",
+            "GE": "GE \u0028+995\u0029",
+            "KG": "KG \u0028+996\u0029",
+            "UZ": "UZ \u0028+998\u0029"
+          }
+        },
+        "conditions&terms": {
+          "tx1": "I agree to YouCan",
+          "tx2": "Terms \u0026 Conditions of use"
+        },
+        "btn": "Continue"
+      },
+      "form2": {
+        "already": "Already have an account\u003F",
+        "login": "Log in"
+      }
+    },
+    "login": {
+      "title": "Log in to your account",
+      "subtitle": "Use your shared YouCan credentials",
+      "form1": {
+        "email": {
+          "emaillabel": "E\u002Dmail address",
+          "emailplaceholder": "Your e\u002Dmail address"
+        },
+        "password": {
+          "passwordlabel": "Password",
+          "passwordplaceholder": "A strong password"
+        },
+        "btn": "Continue"
+      },
+      "form2": {
+        "noaccount": "Don\u2019t have an account\u003F",
+        "signup": "Sign up",
+        "resetpassword": "Reset password"
+      }
+    }
+  },
+  "footer": {
+    "navigation": {
+      "footerlist1": {
+        "subhead": "YouCan",
+        "list": {
+          "Aboutus": "Qui sommes\u2010nous \u003F",
+          "Features": "Fonctionnalités",
+          "Pricing": "Tarifs",
+          "Careers": "Carrières",
+          "LifeatYouCan": "La vie à YouCan"
+        }
+      },
+      "footerlist2": {
+        "subhead": "Ressources",
+        "list": {
+          "Contactus": "Contactez\u2010nous",
+          "HelpCenter": "Centre d\u0027aide",
+          "Developers": "Développeurs",
+          "Blog": "Blog",
+          "FAQs": "FAQ",
+          "Press": "Presse et médias",
+          "LearnEcommerce": "Apprenez l\u0027e\u2010commerce"
+        }
+      },
+      "footerlist3": {
+        "subhead": "Communauté",
+        "list": {
+          "Partnersportal": "Partners portal",
+          "AffiliateandReferral": "Programme d\u0027affiliation",
+          "YouCanAmbassadors": "Ambassadeurs",
+          "Awards": "Récompenses",
+          "Becomeanexpert": "Experts YouCan"
+        }
+      },
+      "footerlist4": {
+        "subhead": "Conditions",
+        "list": {
+          "Termsofuse": "Conditions d\u0027utilisation",
+          "Privacypolicy": "Politique de confidentialité",
+          "Cookies": "Cookies"
+        }
+      }
+    },
+    "container": {
+      "title": "Suivez\u2010nous",
+      "copyright": "Tous droits réservés\u002E"
+    }
+  }
+}
