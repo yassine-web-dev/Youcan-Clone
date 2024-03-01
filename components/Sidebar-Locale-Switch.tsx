@@ -33,7 +33,7 @@ const SidebarLocaleSwitch: React.FunctionComponent<SidebarLocaleSwitchProps> = (
                 li.classList.add("border-transparent")
             }
         })
-    }, [])
+    }, [lang])
 
     return (
         <ul className="sidebar-language-list flex justify-center gap-3 pt-4">
