@@ -31,22 +31,22 @@
   "main": {
     "herosection": {
       "headingsection": {
-        "title": "Selling online has never been easier",
-        "subtitle": "Start your online store in a few clicks and take advantage of our powerful e\u002Dcommerce tools to build a profitable business",
+        "title": "La vente en ligne n\u0027a jamais \u00E9t\u00E9 aussi facile",
+        "subtitle": "Montez votre boutique en ligne en quelques clics et beneficiez de tous les outils essentiels pour reussir dans l\u0027e\u002Dcommerce",
         "marks": {
-          "marktext1": "Easy and intuitive store setup",
-          "marktext2": "No charge until you succeed",
-          "marktext3": "All the e\u002Dcommerce tools you need in one place"
+          "marktext1": "Configuration facile et intuitive de votre site",
+          "marktext2": "Pas de ventes\u002C pas de frais",
+          "marktext3": "Tous les outils e\u002Dcommerce dont vous avez besoin dans un seul endroit"
         },
         "description": {
-          "button": "Get Started"
+          "button": "Demarrer"
         }
       },
       "imagesection": {
         "benifits": {
-          "benifit1": "Active stores",
-          "benifit2": "Served countries",
-          "benifit3": "Conversion rate"
+          "benifit1": "Boutiques actives",
+          "benifit2": "Pays",
+          "benifit3": "Taux de conversion"
         }
       }
     },

@@ -37,7 +37,7 @@ export default function RootLayout({
 
   return (
     <html lang={params.lang} dir={direction} className="scroll-smooth">
-      <body className={`${direction !== "rtl" && rubik.className || direction === "rtl" && kufi.className}`}>
+      <body className={`${direction !== "rtl" && inter.className || direction === "rtl" && inter.className}`}>
         <Navbar lang={params.lang} />
         {children}
         <Footer lang={params.lang} />

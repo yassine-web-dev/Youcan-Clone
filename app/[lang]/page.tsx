@@ -1,4 +1,5 @@
-import HeroSection from '@/components/HeroSection'
+import HeadingSection from '@/components/HeadingSection'
+import ImageSection from '@/components/ImageSection'
 import { Locale } from '@/i18n.config'
 import { getDictionary } from '@/lib/dictionary'
 
@@ -13,8 +14,9 @@ export default async function Home({
     return (
         <main className="py-32">
             <div className="container">
-                <section className="hero-section flex text-[#333]">
-                    <HeroSection lang={lang} herosection={main.herosection} />
+                <section className="hero-section flex justify-between text-[#333]">
+                    <HeadingSection lang={lang} herosection={main.herosection} />
+                    <ImageSection lang={lang} herosection={main.herosection} />
                 </section>
                 <section className="features-section"></section>
                 <section className="inner-section"></section>

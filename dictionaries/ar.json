@@ -31,22 +31,22 @@
   "main": {
     "herosection": {
       "headingsection": {
-        "title": "Selling online has never been easier",
-        "subtitle": "Start your online store in a few clicks and take advantage of our powerful e\u002Dcommerce tools to build a profitable business",
+        "title": "البيع عبر الإنترنت أسهل مما تتخيل",
+        "subtitle": "لا تفكر كثيرا\u0021 ابدأ الآن في إنشاء متجرك باستخدام أفضل الأدوات والخصائص الاحترافية لبناء نشاط تجاري مربح والحصول على نتائج مبهرة",
         "marks": {
-          "marktext1": "Easy and intuitive store setup",
-          "marktext2": "No charge until you succeed",
-          "marktext3": "All the e\u002Dcommerce tools you need in one place"
+          "marktext1": "إعداد سهل وسريع للمتجر",
+          "marktext2": "لن تدفع شيئا حتى تربح",
+          "marktext3": "جميع أدوات التجارة الإلكترونية التي تحتاجها في مكان واحد"
         },
         "description": {
-          "button": "Get Started"
+          "button": "ابدأ الآن"
         }
       },
       "imagesection": {
         "benifits": {
-          "benifit1": "Active stores",
-          "benifit2": "Served countries",
-          "benifit3": "Conversion rate"
+          "benifit1": "متاجر مفعلة",
+          "benifit2": "دولة",
+          "benifit3": "معدل التحويل"
         }
       }
     },

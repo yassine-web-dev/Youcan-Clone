@@ -91,7 +91,7 @@ const LocaleSwitcher: React.FunctionComponent<LocaleSwitcherProps> = ({ lang }) 
                 {
                     i18n.locales.map((locale, i) => (
                         <Link key={i} href={redirectedPathname(locale)}>
-                            <li className='py-[6px] px-3 rounded-md hover:font-medium' id={locale} key={locale}>
+                            <li className='py-[6px] px-3 rounded-md hover:font-bold' id={locale} key={locale}>
                                 {langs[locale]}
                             </li>
                         </Link>
