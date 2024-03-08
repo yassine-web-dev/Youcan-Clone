@@ -26,7 +26,7 @@ export function CarouselPlugin({ lang, images }: {lang: string, images: string[]
   }
   
   const plugin = React.useRef(
-    Autoplay({ delay: 2000, direction: direction })
+    Autoplay({ delay: 12000, direction: direction })
   )
  
   return (
@@ -35,12 +35,12 @@ export function CarouselPlugin({ lang, images }: {lang: string, images: string[]
         direction: direction
       }}
       plugins={[plugin.current]}
-      className="w-full max-w-[550px]"
+      className="md:max-w-[550px]"
     >
       <CarouselContent>
         {images.map((image, index) => (
           <CarouselItem key={index}>
-            <Image src={image} width={550} height={550} alt={`hero image`} />
+            <Image src={image} width={700} height={700} alt={`hero image`} />
           </CarouselItem>
         ))}
       </CarouselContent>
