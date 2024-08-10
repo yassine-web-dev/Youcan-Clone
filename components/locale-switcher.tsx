@@ -78,7 +78,7 @@ const LocaleSwitcher: React.FunctionComponent<LocaleSwitcherProps> = ({ lang }) 
             btn?.removeEventListener('click', handleClick)
             document.documentElement.removeEventListener('click', handleClick1)
         }
-    }, [])
+    })
 
     return (
         <div className="language-menu relative">
