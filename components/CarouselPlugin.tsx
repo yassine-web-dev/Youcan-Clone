@@ -15,7 +15,7 @@ import Image from "next/image"
  
 export function CarouselPlugin({ lang, images }: {lang: string, images: string[]}) {
   
-  let direction: string
+  let direction = "ltr"
   const drs: string[] = ["ltr", "rtl"]
 
   if(lang !== "ar") {
