@@ -48,14 +48,13 @@ interface NavProps {
 
 const Nav: React.FunctionComponent<NavProps> = ({ lang, navbar, nav }) => {
     
-    let direction = ""
-    const dirs = {ltr: "left", rtl: "right"}
+    let direction: "top" | "bottom" | "left" | "right"
 
     if(lang !== "ar") {
-        direction = dirs.ltr
+        direction = "left"
     }
     else {
-        direction = dirs.rtl
+        direction = "right"
     }
     
     return (
