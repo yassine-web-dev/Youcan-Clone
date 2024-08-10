@@ -15,14 +15,13 @@ import Image from "next/image"
  
 export function CarouselPlugin({ lang, images }: {lang: string, images: string[]}) {
   
-  let direction = "ltr"
-  const drs: string[] = ["ltr", "rtl"]
+  let direction: "ltr" | "rtl"
 
   if(lang !== "ar") {
-    direction = drs[0]
+    direction = "ltr"
   }
   else {
-    direction = drs[1]
+    direction = "rtl"
   }
   
   const plugin = React.useRef(
@@ -32,7 +31,7 @@ export function CarouselPlugin({ lang, images }: {lang: string, images: string[]
   return (
     <Carousel
       opts={{
-        direction: direction
+        direction: direction,
       }}
       plugins={[plugin.current]}
       className="md:max-w-[550px]"
