@@ -54,7 +54,7 @@ const HeadingSection: React.FunctionComponent<HeadingSectionProps> = ({ lang, he
                 </ul>
             </div>
             <div className="description mt-10">
-                <Link href={``}>
+                <Link href={`/signup`}>
                    <Button className="w-full sm:max-w-[250px] md:max-w-[164px] h-[52px] text-[15px]">{herosection.headingsection.description.button}</Button> 
                 </Link>
             </div>
