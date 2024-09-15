@@ -1,7 +1,7 @@
 'use client'
 
 import Link from 'next/link'
-import { usePathname, useRouter, useSearchParams } from 'next/navigation'
+import { usePathname } from 'next/navigation'
 
 import { i18n, Locale } from '@/i18n.config'
 import { useEffect, useState } from 'react'
@@ -17,9 +17,6 @@ interface LocaleSwitcherProps {
 const LocaleSwitcher: React.FunctionComponent<LocaleSwitcherProps> = ({ lang }) => {
 
     const pathname = usePathname()
-    const searchParams = useSearchParams()
-    const router = useRouter()
-    const url = `${pathname}?${searchParams}`
     const [value, setValue] = useState("")
     const langs = { "en": "English", "fr": "Français", "ar": "العربية" }
 
