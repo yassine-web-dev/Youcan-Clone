@@ -32,7 +32,7 @@ const mark = "https://static-portal.youcan.shop/images/home_page_images_v2/marks
 const HeadingSection: React.FunctionComponent<HeadingSectionProps> = ({ lang, herosection }) => {
 
     return (
-        <div className="heading-section grid max-w-[700px] text-center md:text-left">
+        <div className="heading-section grid max-w-[700px] text-center md:text-left rtl:md:text-right">
             <h1 className="heading text-[32px] sm:text-[38px] md:text-[34px] lg:text-[42px] xl:text-[48px] leading-[1.2] font-bold">{herosection.headingsection.title}</h1>
             <div className="flex justify-center md:block">
                 <p className="sub-heading text-[#444] text-[15px] md:text-base max-w-[500px] mt-4">{herosection.headingsection.subtitle}</p>

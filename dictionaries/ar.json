@@ -51,12 +51,12 @@
       }
     },
     "featuressection": {
-      "title": "How does it work\u003F",
+      "title": "كيفية الاستخدام",
       "features": {
-        "feature1": "Setup your store",
-        "feature2": "List your products",
-        "feature3": "Drive traffic and sales",
-        "feature4": "Get paid"
+        "feature1": "إعداد المتجر",
+        "feature2": "إضافة المنتجات",
+        "feature3": "زيادة عدد الزيارات ورفع نسبة المبيعات",
+        "feature4": "الحصول على الأموال"
       }
     },
     "innersection": {

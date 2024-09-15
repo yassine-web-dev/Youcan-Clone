@@ -1,3 +1,4 @@
+import FeaturesSection from '@/components/FeaturesSection'
 import HeadingSection from '@/components/HeadingSection'
 import ImageSection from '@/components/ImageSection'
 import { Locale } from '@/i18n.config'
@@ -18,7 +19,9 @@ export default async function Home({
                     <HeadingSection lang={lang} herosection={main.herosection} />
                     <ImageSection lang={lang} herosection={main.herosection} />
                 </section>
-                <section className="features-section"></section>
+                <section className="features-section text-center bg-[#FFF5FB] mt-24 rounded-2xl">
+                    <FeaturesSection lang={lang} featuressection={main.featuressection} />
+                </section>
                 <section className="inner-section"></section>
                 <section className="faq-accordination"></section>
             </div>

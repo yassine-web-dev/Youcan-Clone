@@ -51,12 +51,12 @@
       }
     },
     "featuressection": {
-      "title": "How does it work\u003F",
+      "title": "Comment ça fonctionne\u003F",
       "features": {
-        "feature1": "Setup your store",
-        "feature2": "List your products",
-        "feature3": "Drive traffic and sales",
-        "feature4": "Get paid"
+        "feature1": "Configurez votre boutique",
+        "feature2": "Listez vos produits",
+        "feature3": "Générez du trafic et des ventes",
+        "feature4": "Recevez votre argent"
       }
     },
     "innersection": {

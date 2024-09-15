@@ -1,5 +1,5 @@
 import type { Metadata } from "next";
-import { Inter, Rubik, IBM_Plex_Sans_Arabic  } from "next/font/google";
+import {Inter, Rubik, IBM_Plex_Sans_Arabic, Noto_Kufi_Arabic} from "next/font/google";
 import "./globals.css";
 import { Locale, i18n } from '@/i18n.config'
 import Navbar from "@/components/Navbar";
@@ -7,6 +7,7 @@ import Footer from "@/components/Footer";
 
 const inter = Inter({ subsets: ["latin"] });
 const rubik = Rubik({ subsets: ["latin"] });
+const kufi = Noto_Kufi_Arabic({ subsets: ["arabic"] });
 const ibm = IBM_Plex_Sans_Arabic({ subsets: ["arabic"], weight:"500"});
 
 export const metadata: Metadata = {
@@ -37,7 +38,7 @@ export default function RootLayout({
 
   return (
     <html lang={params.lang} dir={direction} className="scroll-smooth">
-      <body className={`${direction !== "rtl" && inter.className || direction === "rtl" && ibm.className}`}>
+      <body className={`${direction !== "rtl" && inter.className || direction === "rtl" && kufi.className}`}>
         <Navbar lang={params.lang} />
         {children}
         <Footer lang={params.lang} />
