@@ -19,6 +19,12 @@ module.exports = {
         port: '',
         pathname: '/images/new_portal_design/home/shop-global-2.webp',
       },
+      {
+        protocol: 'https',
+        hostname: 'static-portal.youcan.shop',
+        port: '',
+        pathname: '/images/new_portal_design/home/setup-store-animation.gif',
+      },
     ],
   },
 }

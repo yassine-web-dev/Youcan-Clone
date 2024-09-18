@@ -110,7 +110,7 @@ const NavbarHelper: React.FunctionComponent<NavbarHelperProps> = ({ lang, navbar
                                     </Button>
                                 </li>
                                 <li className="mr-3 rtl:mr-0 rtl:ml-3">
-                                    <Button className="bg-transparent font-normal duration-500 text-base hover:bg-[#EDF6F9] text-black border">
+                                    <Button className="bg-transparent font-normal duration-500 text-[15px] hover:bg-[#EDF6F9] text-black border">
                                         <Link href={`/${lang}/login`}>{navbar.rightmenu.rightlist.navigation.login}</Link>
                                     </Button>
                                 </li>

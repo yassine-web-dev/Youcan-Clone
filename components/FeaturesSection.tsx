@@ -1,3 +1,5 @@
+import Image from "next/image"
+
 interface FeaturesSectionProps {
     lang: string,
     featuressection: {
