@@ -34,7 +34,7 @@ export function CarouselPlugin({ lang, images }: {lang: string, images: string[]
         direction: direction,
       }}
       plugins={[plugin.current]}
-      className="md:max-w-[550px]"
+      className="max-w-[1000px]"
     >
       <CarouselContent>
         {images.map((image, index) => (

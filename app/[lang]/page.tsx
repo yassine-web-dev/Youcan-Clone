@@ -16,7 +16,7 @@ export default async function Home({
     return (
         <main className="py-32">
             <div className="container">
-                <section className="hero-section grid gap-12 md:flex justify-between md:gap-20 text-[#333]">
+                <section className="hero-section md:flex justify-between md:gap-20 text-[#333]">
                     <HeadingSection lang={lang} herosection={main.herosection} />
                     <ImageSection lang={lang} herosection={main.herosection} />
                 </section>
