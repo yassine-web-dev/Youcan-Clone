@@ -38,7 +38,7 @@ const HeadingSection: React.FunctionComponent<HeadingSectionProps> = ({ lang, he
                 <p className="sub-heading text-[#444] text-[15px] md:text-base max-w-[500px] mt-4">{herosection.headingsection.subtitle}</p>
             </div>
             <div className="flex justify-center md:block">
-                <ul className="marks text-left text-[#555] text-[15px] pt-8">
+                <ul className="marks text-left rtl:text-right text-[#555] text-[15px] pt-8">
                     <li className="mark pb-[15px] flex items-center gap-3">
                         <Image src={mark} width={24} height={24} quality={100} alt="Easy store setup" />
                         <p className="mark-text">{herosection.headingsection.marks.marktext1}</p>
