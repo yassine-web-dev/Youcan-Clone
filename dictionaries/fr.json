@@ -67,14 +67,14 @@
       },
       "inner2": {
         "desc": {
-          "title": "No charge until you succeed",
-          "text": "Enjoy all YouCan features and services without any limitations and without having to pay until you reach \u002410\u002C000 in sales\u002E",
-          "button": "Learn more"
+          "title": "Ne payez rien jusqu\u2019à ce que vous réussissiez",
+          "text": "Profitez de toutes les fonctionnalités et services de YouCan sans aucune limitation et sans avoir à payer jusqu\u2019à ce que vous atteigniez 10 000\u0024 de ventes\u002E",
+          "button": "En savoir plus"
         },
         "imgbox": {
           "text": {
-            "txt1": "You\u2019ve just hit",
-            "txt2": "\u002410k in sales"
+            "txt1": "Vous venez d\u2019atteindre",
+            "txt2": "10 000\u0024 de ventes"
           }
         }
       },

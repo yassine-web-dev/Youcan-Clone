@@ -37,8 +37,8 @@ const InnerSection: React.FunctionComponent<InnerSectionProps> = ({ lang, inners
 
         <>
             <InnerOne lang={lang} inner1={innersection.inner1} />
-            {/* <InnerTwo lang={lang} inner2={innersection.inner2} />
-            <InnerThree lang={lang} inner3={innersection.inner3} /> */}
+            <InnerTwo lang={lang} inner2={innersection.inner2} />
+            {/* <InnerThree lang={lang} inner3={innersection.inner3} /> */}
         </>
     )
 }

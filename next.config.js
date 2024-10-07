@@ -25,6 +25,18 @@ module.exports = {
         port: '',
         pathname: '/images/new_portal_design/home/setup-store-animation.gif',
       },
+      {
+        protocol: 'https',
+        hostname: 'static-portal.youcan.shop',
+        port: '',
+        pathname: '/images/home_page_images_v2/charts.png',
+      },
+      {
+        protocol: 'https',
+        hostname: 'static-portal.youcan.shop',
+        port: '',
+        pathname: '/images/new_portal_design/home/navigate-illustration-3.webp',
+      },
     ],
   },
 }

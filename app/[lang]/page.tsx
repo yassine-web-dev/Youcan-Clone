@@ -23,9 +23,11 @@ export default async function Home({
                 <section className="features-section text-center bg-[#FFF5FB] mt-24 rounded-2xl">
                     <FeaturesSection lang={lang} featuressection={main.featuressection} />
                 </section>
-                <section className="inner-section">
-                    <InnerSection lang={lang} innersection={main.innersection} />
-                </section>
+            </div>
+            <section className="inner-section">
+                <InnerSection lang={lang} innersection={main.innersection} />
+            </section>
+            <div className="container">
                 <section className="faq-accordination"></section>
             </div>
         </main>

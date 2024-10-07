@@ -67,14 +67,14 @@
       },
       "inner2": {
         "desc": {
-          "title": "No charge until you succeed",
-          "text": "Enjoy all YouCan features and services without any limitations and without having to pay until you reach \u002410\u002C000 in sales\u002E",
-          "button": "Learn more"
+          "title": "لن تدفع شيئا حتى تربح",
+          "text": "لا تفكر في المصاريف قم بالبيع أولا\u002C واستفد من جميع ميزات وخدمات YouCan دون أي قيود ودون الحاجة إلى دفع أي شيء إلى غاية تحقيق 10000 دولار من المبيعات",
+          "button": "الاطلاع على المزيد"
         },
         "imgbox": {
           "text": {
-            "txt1": "You\u2019ve just hit",
-            "txt2": "\u002410k in sales"
+            "txt1": "لقد بلغت مبيعاتك للتو",
+            "txt2": "10 آلاف دولار"
           }
         }
       },
