@@ -37,7 +37,7 @@ const InnerTwo: React.FunctionComponent<InnerTwoProps> = ({ lang, inner2 }) => {
                         <div className="inner-border flex flex-col justify-between px-4 gap-1 w-[40%] bg-white border-[1px] border-[#ebebeb] rounded-md shadow-sm">
                             <div>
                                 <span className="icon flex text-[40px] md:text-[56px] font-semibold justify-center mb-2 mt-4">🎉</span>
-                                <p className="text-sm md:text-[17px] leading-6 font-semibold text-center">
+                                <p className="text-[12px] sm:text-sm md:text-[17px] leading-6 font-semibold text-center">
                                     {inner2.imgbox.text.txt1}
                                     &nbsp;
                                     <span className="sales text-[#335fb8]">{inner2.imgbox.text.txt2}</span>
