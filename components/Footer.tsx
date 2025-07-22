@@ -182,7 +182,7 @@ const Footer: React.FunctionComponent<FooterProps> = async ({ lang }) => {
                             }
                         </ul>
                     </div>
-                    <div className="copyright text-[hsla(0,0%,100%,.4)] text-sm lg:text-base">&#169; 2024 YouCan&#46; {footer.container.copyright}</div>
+                    <div className="copyright text-[hsla(0,0%,100%,.4)] text-sm lg:text-base">&#169; 2025 YouCan&#46; {footer.container.copyright}</div>
                 </section>
             </div>
         </footer>
